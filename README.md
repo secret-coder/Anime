@@ -1,1 +1,1 @@
-# hactoberfest2020
+# This is sample repo
